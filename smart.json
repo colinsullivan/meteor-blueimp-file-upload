@@ -1,0 +1,8 @@
+{
+  "name": "blueimp-file-upload",
+  "description": "A meteor wrapper around the blueimp-file-upload package.",
+  "homepage": "",
+  "packages": {
+    "jqueryui": "1.10.3r2"
+  }
+}

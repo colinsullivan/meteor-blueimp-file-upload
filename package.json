@@ -1,9 +1,0 @@
-Package.describe({
-  summary: "A wrapper around the blueimp-file-upload package for Meteor."
-});
-
-Package.on_use(function (api) {
-  api.use(["jquery", "blueimp-tmpl"]);
-
-  api.add_files([])
-})
