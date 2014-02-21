@@ -4,9 +4,9 @@
   "homepage": "https://github.com/colinsullivan/meteor-blueimp-file-upload",
   "author": "Colin Sullivan <colin [at] colin-sullivan.net>",
   "git": "https://github.com/colinsullivan/meteor-blueimp-file-upload.git",
-  "version": "9.5.3",
+  "version": "9.5.31",
   "packages": {
     "jqueryui": "1.10.3r2",
-    "blueimp-tmpl": "2.5.3"
+    "blueimp-tmpl": "2.5.31"
   }
 }
